@@ -1,6 +1,4 @@
 streamlit==1.27.0
-pandas==2.1.0   # 2.1.0 funciona en py3.13 sin compilar
-plotly
-scikit-learn
-requests
-pillow==9.4.0   # versión estable para py3.13
+pandas==2.1.0
+numpy==1.26.2
+pillow==9.4.0
